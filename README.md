@@ -147,24 +147,6 @@ pnpm lint
 - TypeScript 타입 정의
 - 과제 요구사항 상세 문서 (example/README.md)
 
-### submission/harinsd404/
-harinsd404의 과제 제출 프로젝트입니다.
-
-**현재 상태**:
-- [x] 프로젝트 초기 설정
-- [x] 기본 컴포넌트 구조 (atoms)
-- [x] 테마 시스템
-- [ ] 기능 구현 예정
-
-### submission/shusbox/
-shusbox의 과제 제출 프로젝트입니다.
-
-**현재 상태**:
-- [x] 프로젝트 초기 설정
-- [x] 기본 컴포넌트 구조 (atoms)
-- [x] 테마 시스템
-- [ ] 기능 구현 예정
-
 ## 📦 공통 의존성
 
 모든 프로젝트가 공유하는 의존성:
@@ -210,7 +192,7 @@ shusbox의 과제 제출 프로젝트입니다.
 - [ ] TODO 목록 조회 (LocalStorage 읽기)
 - [ ] 완료 토글 기능
 - [ ] 삭제 기능
-- [ ] **Day.js로 날짜 포맷팅 (필수)**
+- [ ] Day.js로 날짜 포맷팅
 - [ ] 새로고침 후 데이터 유지
 - [ ] TypeScript 타입 정의 (any 최소화)
 - [ ] @emotion/react & @emotion/styled 사용
