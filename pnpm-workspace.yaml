@@ -1,3 +1,6 @@
 packages:
-  - 'example'
-  - 'submission/*'
+  - example
+  - submission/*
+
+ignoredBuiltDependencies:
+  - esbuild

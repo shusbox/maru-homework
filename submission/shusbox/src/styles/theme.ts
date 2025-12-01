@@ -15,7 +15,7 @@ export const colors = {
   textPrimary: '#111827',
   textSecondary: '#374151',
   textTertiary: '#6b7280',
-  textDisabled: '#9ca3af',
+  textDisabled: '#ffffff',
 
   bgPrimary: '#ffffff',
   bgSecondary: '#f9fafb',
